@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>0AD99C19-B07C-4BB7-816F-901556C45302</string>
+	<key>IDESourceControlProjectName</key>
+	<string>RealTimeChatExample</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>02EAA3BA-1DAA-49C1-AFF0-58250A83EB07</key>
+		<string>https://github.com/square/SocketRocket.git</string>
+		<key>1A32CC35-1668-401A-AE53-D9C52DDA4E33</key>
+		<string>ssh://github.com/rayzl0523minibear/RealtimeChatClientExample.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>RealTimeChatExample.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>02EAA3BA-1DAA-49C1-AFF0-58250A83EB07</key>
+		<string>../../../../ThirdPartyFramework/SocketRocket</string>
+		<key>1A32CC35-1668-401A-AE53-D9C52DDA4E33</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>ssh://github.com/rayzl0523minibear/RealtimeChatClientExample.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>1A32CC35-1668-401A-AE53-D9C52DDA4E33</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>1A32CC35-1668-401A-AE53-D9C52DDA4E33</string>
+			<key>IDESourceControlWCCName</key>
+			<string>RealTimeChatExample</string>
+		</dict>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>02EAA3BA-1DAA-49C1-AFF0-58250A83EB07</string>
+			<key>IDESourceControlWCCName</key>
+			<string>SocketRocket</string>
+		</dict>
+	</array>
+</dict>
+</plist>
